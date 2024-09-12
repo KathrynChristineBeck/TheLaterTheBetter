@@ -6,5 +6,7 @@
 
 ## Syntax Available
 Available files:
+* IV-analysis.R: analysis for effect of SSA on ADHD diagnosis using due date as instrumental variable
+* birth-shifting.R: analysis of birth shifting around January 1st 
 
 ## Citation
