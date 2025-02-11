@@ -10,3 +10,4 @@ Available files:
 * birth-shifting.R: analysis of birth shifting around January 1st 
 
 ## Citation
+Kathryn Christine Beck, The later the better? A novel approach to estimating the effect of school starting age on ADHD and academic skills, European Sociological Review, 2025;, jcaf004, https://doi.org/10.1093/esr/jcaf004
